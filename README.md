@@ -7,7 +7,6 @@ Este proyecto implementa un simulador inspirado en el clásico juego **Lemmings*
 ✅ Diferentes tipos de terreno con obstáculos y zonas seguras.  
 ✅ Control de los Lemmings mediante acciones como construir, escalar o excavar.  
 ✅ Carga dinámica de niveles a partir de archivos de configuración.  
-✅ Modo batch: ejecución automática desde la línea de comandos.  
 
 ## 📂 Estructura de proyecto
 /src        → Código fuente del simulador.  
