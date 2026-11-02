@@ -1,0 +1,27 @@
+# Compiled output
+*.class
+out/
+bin/
+build/
+target/
+
+# Packaging
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.metadata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+hs_err_pid*
